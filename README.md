@@ -1,2 +1,2 @@
-> [!INFO] 
+> [!NOTE] 
 > Paused – planned for future continuation. Last worked on 02 Jan 24.
